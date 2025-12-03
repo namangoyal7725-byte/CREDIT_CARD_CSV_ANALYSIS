@@ -28,6 +28,5 @@ Its highest expense type
 Its lowest expense type
 
  6. Highest Month-over-Month growth (Dec 2013 → Jan 2014)
-Find the card type & expense type combination that shows the highest spending growth between:
+Find the card type & expense type combination that shows the highest spending growth between: December 2013 → January 2014
 
-December 2013 → January 2014
