@@ -1,5 +1,4 @@
---write a query to print top 5 cities with highest spends and their percentage contribution of total credit card spends --
---practice git push pull -- 
+--write a query to print top 5 cities with highest spends and their percentage contribution of total credit card spends -- 
 
 
 with cte1 as(
