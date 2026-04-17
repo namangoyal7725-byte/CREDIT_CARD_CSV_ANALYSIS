@@ -7,7 +7,7 @@ This project is ideal for learners practicing SQL analytics, window functions, C
 
 Project Objectives :
 
-Using SQL Server, this project answers the following business questions:
+Using Microsoft SQL Server, this project answers the following business questions:
 
  1. Top 5 cities by total spends
 Also calculate each city's percentage contribution to total credit card spending.
