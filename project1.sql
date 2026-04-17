@@ -1,4 +1,6 @@
 --write a query to print top 5 cities with highest spends and their percentage contribution of total credit card spends --
+--practice git push pull -- 
+
 
 with cte1 as(
 select *, (select sum(amount) from credit_card_transcations) as Total_amount from credit_card_transcations)
