@@ -4,7 +4,6 @@ The goal of the project is to apply SQL data-engineering and analytics concepts 
 The analysis includes city-level spending insights, card-type trends, expense type behaviors, month-over-month growth, and cumulative spend calculations.
 This project is ideal for learners practicing SQL analytics, window functions, CTEs, and real-world data handling.
 
-
 Project Objectives :
 
 Using SQL Server, this project answers the following business questions:
